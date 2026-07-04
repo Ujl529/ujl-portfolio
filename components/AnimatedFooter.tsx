@@ -16,7 +16,7 @@ export default function AnimatedFooter() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="md:col-span-2">
             <Link href="/" className="text-2xl font-bold tracking-tighter text-accent">
-              UD<span className="text-foreground">.AI</span>
+              UJL<span className="text-foreground"></span>
             </Link>
             <p className="mt-4 text-muted max-w-md leading-relaxed">
               Building AI solutions for modern enterprises. Predictive maintenance, industrial IoT, and

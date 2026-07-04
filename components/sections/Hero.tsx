@@ -30,7 +30,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative h-screen w-full flex items-center justify-center overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center py-32">
       <HeroCanvas />
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-background/20 to-background pointer-events-none" />
 

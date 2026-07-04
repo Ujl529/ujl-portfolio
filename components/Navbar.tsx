@@ -54,7 +54,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="relative group">
             <span className="text-2xl font-bold tracking-tighter text-accent">
-              UD<span className="text-foreground">.AI</span>
+              UJL<span className="text-foreground"></span>
             </span>
             <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-accent group-hover:w-full transition-all duration-300" />
           </Link>

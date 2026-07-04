@@ -25,7 +25,7 @@ export default function LoadingScreen() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             >
-              UD<span className="text-accent">.AI</span>
+              UJL<span className="text-accent"></span>
             </motion.h1>
             <motion.div
               className="mt-6 h-0.5 bg-accent/20 rounded-full overflow-hidden w-48 mx-auto"

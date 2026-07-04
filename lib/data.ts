@@ -3,10 +3,10 @@ import { Project, Experience, Skill, Education, Achievement, Service } from "./t
 export const personalInfo = {
   name: "Ujjwal Dwivedi",
   title: "AI Engineer & Enterprise Solution Developer",
-  email: "contact@ujjwaldwivedi.com",
+  email: "ujjwaldwivedi100@gmail.com",
   location: "India",
   github: "https://github.com/Ujl529",
-  linkedin: "https://linkedin.com/in/ujl529",
+  linkedin: "https://www.linkedin.com/in/ujldwid2304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   resume: "/assets/resume.pdf",
   tagline: "Building AI Solutions for Modern Enterprises",
   bio: [
@@ -39,8 +39,8 @@ export const projects: Project[] = [
       "TensorFlow",
     ],
     image: "/projects/predictive-maintenance.jpg",
-    github: "https://github.com/Ujl529",
-    live: "#",
+    github: "https://github.com/Ujl529/pdm-dashboard",
+    live: "https://pdm-dashboard.netlify.app/",
     featured: true,
     highlights: [
       "94% failure prediction accuracy",
@@ -198,14 +198,7 @@ export const achievements: Achievement[] = [
     description:
       "Professional certification validating expertise in ServiceNow platform administration, configuration, and workflow automation.",
     icon: "certificate",
-    year: "2024",
-  },
-  {
-    title: "ServiceNow Certified Application Developer (CAD)",
-    description:
-      "Advanced certification demonstrating capability in building custom applications and scoped apps on the ServiceNow platform.",
-    icon: "certificate",
-    year: "2024",
+    year: "2025",
   },
   {
     title: "AI/ML Internship",
