@@ -15,7 +15,7 @@ export default function ResumePage() {
           className="flex justify-end mb-8"
         >
           <a
-            href="/assets/resume.pdf"
+            href="/assets/Dwivedi_Ujjwal__CV.pdf"
             download
             className="inline-flex items-center gap-2 px-6 py-3 bg-accent text-white rounded-full font-bold hover:scale-105 transition-transform"
           >
